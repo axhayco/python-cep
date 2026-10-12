@@ -1,0 +1,27 @@
+CROP COST AND PROFITABILITY ANALYSIS
+Generated: 2026-10-12 22:08:41
+========================================================================
+Crop-wise summary (same crop names are combined):
+Crop           Records  Area (acres)          Cost       Revenue        Profit
+------------------------------------------------------------------------------
+Cotton               1          5.00       ₹52,000       ₹62,400       ₹10,400
+Maize                1          3.00       ₹27,000       ₹30,800        ₹3,800
+Pulses               1          2.00       ₹15,000       ₹24,000        ₹9,000
+Rice                 1          5.00       ₹48,000       ₹57,200        ₹9,200
+Wheat                1          4.00       ₹36,000       ₹43,200        ₹7,200
+------------------------------------------------------------------------------
+Overall total cost: ₹178,000
+Overall revenue:   ₹217,600
+Overall profit:    ₹39,600 (Profitable)
+
+Analysis and interpretation:
+Highest-profit crop: Cotton (₹10,400)
+Lowest-profit crop:  Maize (₹3,800)
+Highest-cost crop:   Cotton (₹52,000)
+Lowest-cost crop:    Pulses (₹15,000)
+Profitable crops: Cotton, Maize, Pulses, Rice, Wheat
+Break-even crops: None
+Not profitable crops: None
+
+Formula: Revenue = yield (quintals) × selling price per quintal.
+Profit = revenue − production cost.
